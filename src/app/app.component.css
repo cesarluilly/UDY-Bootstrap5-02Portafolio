@@ -21,3 +21,15 @@ header .menu .c3 { background: #003855;}
 header .menu .c1:hover { background: #1ba0ef;}
 header .menu .c2:hover { background: #00426a;}
 header .menu .c3:hover { background: #002d44;}
+
+.borderRed {
+    border: 1px solid red;
+}
+
+.borderBlue {
+    border: 1px solid blue;
+}
+
+.borderGreen {
+    border: 1px solid green;
+}
