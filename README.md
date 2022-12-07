@@ -42,7 +42,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![video65EncabezadoOriginal](./imgReadme/video65EncabezadoOriginal.png)
 
 * Creo la escructura del encabezado(Esqueleto) sin css
-    * Ver commit https://github.com/cesarluilly/UDY-Bootstrap/commit/ac95010d294880bcc9a941505bd5e9f60ee80400
+    * Ver commit https://github.com/cesarluilly/UDY-Bootstrap5-02Portafolio/commit/8c8c053f4ee55582b058af47dcbe3481df14d4fd
 
     * ![video65Esqueleto](./imgReadme/video65Esqueleto.png)
 
