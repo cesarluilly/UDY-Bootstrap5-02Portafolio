@@ -52,6 +52,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     * **Mobile** ![video65PracticaCompletadaMobile](./imgReadme/video65PracticaCompletadaMobile.png)
 
 > ### Video 66 - Slideshow
+* Desarrollando el SlideShow y al estar utilizando las clases de bootstrap, automaticamente nuestro slideshow es
+responsive 
+    * **Desktop** ![video66SlideshowCompletadoDesktop](./imgReadme/video66SlideshowCompletadoDesktop.png)
+    * **Mobile** ![video66SlideshowCompletadoMobile](./imgReadme/video66SlideshowCompletadoMobile.png)
 
 > ### Video 67 - Galeria de trabajos (Parte I)
 
