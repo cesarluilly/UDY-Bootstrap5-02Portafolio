@@ -113,6 +113,13 @@ responsive
 * **Nota** se recomienda utilizar en css para anchos el 
 `max-width` en lugar del `width` ya que el `max-width` **es responsive**
 
+* Presentacion de lo que se iso
+    * **Desktop**
+    ![video69CompletadoDesktop](./imgReadme/video69CompletadoDesktop.png)
+
+    * **Mobile**
+    ![video69CompletadoMobile](./imgReadme/video69CompletadoMobile.png)
+
 > ### Video 70 - Seccion de acerca de
 
 > ### Video 71 - Formulario de contacto
