@@ -58,6 +58,8 @@ responsive
     * **Mobile** ![video66SlideshowCompletadoMobile](./imgReadme/video66SlideshowCompletadoMobile.png)
 
 > ### Video 67 - Galeria de trabajos (Parte I)
+* Lo que se espera
+    * ![video67LoQueSeEsperaHacer](./imgReadme/video67LoQueSeEsperaHacer.png)
 
 > ### Video 68 - Galeria de trabajos (Parte II) - Diseño Responsive
 
