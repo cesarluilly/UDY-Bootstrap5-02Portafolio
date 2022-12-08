@@ -62,6 +62,51 @@ responsive
     * ![video67LoQueSeEsperaHacer](./imgReadme/video67LoQueSeEsperaHacer.png)
 
 > ### Video 68 - Galeria de trabajos (Parte II) - Diseño Responsive
+* Presentacion
+    * **Desktop**
+    ![video68CompletadoDesktop](./imgReadme/video68CompletadoDesktop.png)
+
+    * Mobile
+    ![video68CompletadoMobile](./imgReadme/video68CompletadoMobile.png)
+
+> Acomodar los medias Queries con los Breakpoint de bootstrap.
+```css
+/* MEDIAQUERIES */
+/* Dispositivo sm */
+@media screen and (max-width: 576px){}
+
+/* Dispositivo md */
+@media screen and (max-width: 760px) {}
+
+/* Dispositivo lg */
+@media screen and (max-width: 992px) {
+    .logo {
+        height: 76px;
+    }
+
+    header .menu {
+        min-height: 76px;
+    }
+
+    header .menu a {
+        width: 100px;
+    }
+
+    .portafolio .galeria .contenedor-imagen:nth-child(1) {order: 1;}
+    .portafolio .galeria .contenedor-imagen:nth-child(2) {order: 3;}
+    .portafolio .galeria .contenedor-imagen:nth-child(3) {order: 6;}
+    .portafolio .galeria .contenedor-imagen:nth-child(4) {order: 2;}
+    .portafolio .galeria .contenedor-imagen:nth-child(5) {order: 5;}
+    .portafolio .galeria .contenedor-imagen:nth-child(6) {order: 4;}
+    .portafolio .galeria .contenedor-imagen:nth-child(7) {order: 7;}
+}
+
+/* Dispositivo xl */
+@media screen and (max-width: 1200px) {}
+
+/* Dispositivo xxl */
+@media screen and (max-width: 1400px) {}
+```
 
 > ### Video 69 - Galeria de trabajos (Parte III) - Codigo Javascript de la galeria
 
