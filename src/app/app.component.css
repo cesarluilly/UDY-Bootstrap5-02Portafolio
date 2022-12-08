@@ -22,6 +22,22 @@ header .menu .c1:hover { background: #1ba0ef;}
 header .menu .c2:hover { background: #00426a;}
 header .menu .c3:hover { background: #002d44;}
 
+
+/* MAIN */
+/* Portafolio */
+
+.portafolio {
+    border-top: 5px solid #3da5e2;
+}
+
+.portafolio .titulo {
+    color: #3da5e2;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+
+
 .borderRed {
     border: 1px solid red;
 }
