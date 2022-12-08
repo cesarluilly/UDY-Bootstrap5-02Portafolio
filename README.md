@@ -110,6 +110,9 @@ responsive
 
 > ### Video 69 - Galeria de trabajos (Parte III) - Codigo Javascript de la galeria
 
+* **Nota** se recomienda utilizar en css para anchos el 
+`max-width` en lugar del `width` ya que el `max-width` **es responsive**
+
 > ### Video 70 - Seccion de acerca de
 
 > ### Video 71 - Formulario de contacto
