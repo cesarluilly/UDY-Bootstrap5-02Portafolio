@@ -136,6 +136,13 @@ responsive
 * Lo que se espera
 ![video71Esperado](./imgReadme/video71Esperado.png)
 
+* Presentacion de lo que si realizo
+    * **Desktop**
+    ![video71PresentacionDesktop](./imgReadme/video71PresentacionDesktop.png)
+
+    * **Mobile**
+    ![video71PresentacionMobile](./imgReadme/video71PresentacionMobile.png)
+
 * Presentacion realizada
 
 > ### Video 72 - Pie de pagina
