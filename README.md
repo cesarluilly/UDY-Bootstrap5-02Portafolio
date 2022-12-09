@@ -121,6 +121,8 @@ responsive
     ![video69CompletadoMobile](./imgReadme/video69CompletadoMobile.png)
 
 > ### Video 70 - Seccion de acerca de
+* Lo que se espera
+![video70LoQueSeEspera](./imgReadme/video70LoQueSeEspera.png)
 
 > ### Video 71 - Formulario de contacto
 
