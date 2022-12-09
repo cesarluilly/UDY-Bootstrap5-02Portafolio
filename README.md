@@ -133,5 +133,9 @@ responsive
 
 
 > ### Video 71 - Formulario de contacto
+* Lo que se espera
+![video71Esperado](./imgReadme/video71Esperado.png)
+
+* Presentacion realizada
 
 > ### Video 72 - Pie de pagina
