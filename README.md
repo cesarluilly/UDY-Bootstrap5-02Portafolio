@@ -124,6 +124,14 @@ responsive
 * Lo que se espera
 ![video70LoQueSeEspera](./imgReadme/video70LoQueSeEspera.png)
 
+* Presentacion
+    * **Desktop**
+    ![video70PresentationDesktop](./imgReadme/video70PresentationDesktop.png)
+
+    * **Mobile**
+    ![video70PresentationMobile](./imgReadme/video70PresentationMobile.png)
+
+
 > ### Video 71 - Formulario de contacto
 
 > ### Video 72 - Pie de pagina
