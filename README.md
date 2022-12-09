@@ -143,6 +143,11 @@ responsive
     * **Mobile**
     ![video71PresentacionMobile](./imgReadme/video71PresentacionMobile.png)
 
-* Presentacion realizada
 
 > ### Video 72 - Pie de pagina
+* Presentacion realizada
+    * **Desktop**
+    ![video72PresentationDesktop](./imgReadme/video72PresentationDesktop.png)
+
+    * **Mobile**
+    ![video72PresentationMobile](./imgReadme/video72PresentationMobile.png)
