@@ -1,0 +1,38 @@
+.borderRed {
+    border: 1px solid red;
+}
+
+.borderBlue {
+    border: 1px solid blue;
+}
+
+.borderGreen {
+    border: 1px solid green;
+}
+
+.nav {
+    min-height: 80px;
+    background: #fff;
+    overflow: hidden;
+}
+
+.logotipo h1, 
+.logotipo p {
+    font-size: 16px;
+}
+
+.logotipo .icono {
+    color: #bfbfbf;
+}
+
+.logotipo h1{
+    font-size: 16px;
+}
+
+.enlaces .c1 { background: #3da5e2; }
+.enlaces .c2 { background: #005385; }
+.enlaces .c3 { background: #005385; }
+
+.enlaces .c1:hover { background: #1ba0ef; }
+.enlaces .c2:hover { background: #00426a; }
+.enlaces .c3:hover { background: #00426a; }
