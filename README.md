@@ -1,5 +1,7 @@
 # [Liga de produccion del proyecto realizado](https://fluffy-swan-25cdda.netlify.app/)
 
+# [Liga de Lucidchart de maquetacion y elaboracion](https://lucid.app/documents/view/9e8490fe-985d-4f25-a54e-58acce3d45bf)
+
 # Alternativas de boostrap
 * https://ng-bootstrap.github.io/#/components/alert/examples
 
